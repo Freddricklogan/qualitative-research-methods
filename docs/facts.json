@@ -1,0 +1,23 @@
+{
+  "repo": "qualitative-research-methods",
+  "title": "Qualitative Research Methods",
+  "subtitle": "a graduate-level guide from paradigm to defensible finding, with a design selector, a coding walkthrough and a rigor self-check",
+  "problem": "Doctoral students and practitioner-researchers choose a qualitative design by habit — interviews because interviews are familiar — and reach the defence unable to say which paradigm they stand in, why their sample is adequate, or what makes their themes trustworthy. Textbooks cover each piece; few let a reader try the decisions.",
+  "solution": "An eighteen-section resource that moves from paradigms through the five approaches, sampling, data collection, analysis and trustworthiness to writing up, with widgets that make the reader decide: a design selector that suggests an approach from three answers, a coding walkthrough that lifts one quote from datum to theme, a rigor scorer over Lincoln and Guba's criteria, and a self-quiz matching questions to approaches.",
+  "pedagogy": "decisions before definitions: the design selector, coding ladder and rigor scorer each ask the reader to commit before the page explains; a glossary and FAQ close the loop; sections are collapsible so the executive summary reads in two minutes.",
+  "sections": 18,
+  "reading_min": 18,
+  "section_titles": ["orientation", "paradigms", "the five approaches", "side-by-side comparison", "design selector", "nine-stage workflow", "research question", "sampling", "data sources", "interview guide", "analysis", "mixed methods", "trustworthiness", "ethics", "writing up", "pitfalls", "FAQ", "glossary"],
+  "widgets": [
+    {"name": "Approach tabs", "what": "Five tabs (narrative, phenomenology, grounded theory, ethnography, case study) switch the detail panel"},
+    {"name": "Design selector", "what": "Three questions about intent; tallies the answers and suggests an approach with a rationale, flagging split answers"},
+    {"name": "Coding walkthrough", "what": "Steps one participant quote up four rungs — raw datum, code, category, theme — with a hint per rung"},
+    {"name": "Rigor scorer", "what": "Weighted checklist of nine trustworthiness strategies; fills a bar and gives an Emerging / Solid / Strong verdict"},
+    {"name": "Self-quiz", "what": "Five research questions to match to the right approach, with the correct answer revealed on a miss"},
+    {"name": "FAQ accordion", "what": "Expandable answers to common design questions"}
+  ],
+  "quiz_topics": ["the constructivist paradigm and its neighbours", "Patton's critical-case logic", "what a saturation claim requires", "dependability and the audit trail", "the code → category → theme ladder"],
+  "tour": ["the first section opens and the count rises.", "paradigms, sampling, saturation, trustworthiness and coding"],
+  "inline_styles": 124, "style_classes": 35, "vars": 26, "buttons": 27, "tables": 6, "main_note": "wrapped the content in a `<main>` landmark",
+  "tests": 7, "cov_kit": 78.75, "cov_all": 79.84
+}
