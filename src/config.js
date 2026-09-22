@@ -3,6 +3,7 @@ export const config = {
   title: 'Qualitative Research Methods',
   tagline: 'A graduate-level guide to qualitative inquiry: paradigms, the five approaches, purposeful sampling, data collection, coding and trustworthiness, with a design selector, a coding walkthrough and a rigor self-check.',
   repo: 'https://github.com/Freddricklogan/qualitative-research-methods',
+  theme: 'plum',
   pagesUrl: 'https://freddricklogan.github.io/qualitative-research-methods/',
   quizTitle: 'Five questions on qualitative research',
   quiz: [
